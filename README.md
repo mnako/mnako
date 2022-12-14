@@ -11,7 +11,9 @@ and Python cookiecutters:
 1. [Docker-Python-PDM](https://github.com/mnako/cookiecutter-docker-python-pdm)
 2. [Docker-Django-Postgres-Redis-Celery](https://github.com/mnako/cookiecutter-django-postgres-redis-celery)
 
-If you work on systems using Japanese kanji characters, check out the [Japanese K/Hanzi Writer Data](https://github.com/mnako/hanzi-writer-data-ja) repo  as well.
+If you work on systems using Japanese kanji characters, check out the [Japanese K/Hanzi Writer Data](https://github.com/mnako/hanzi-writer-data-ja) repo as well.
+
+I am currently working on bringing ActivityPub streams to static website generators like Hugo.
 
 <!--
 **mnako/mnako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
