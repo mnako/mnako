@@ -13,8 +13,6 @@ and Python cookiecutters:
 
 If you work on systems using Japanese kanji characters, check out the [Japanese K/Hanzi Writer Data](https://github.com/mnako/hanzi-writer-data-ja) repo as well.
 
-I am currently working on bringing ActivityPub streams to static website generators like Hugo.
-
 <!--
 **mnako/mnako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
